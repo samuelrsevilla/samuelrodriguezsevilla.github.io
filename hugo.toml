@@ -1,6 +1,6 @@
 baseURL = 'https://samuelrodriguezsevilla.es/'
 languageCode = 'es-es'
-title = 'Samuel R. Sevilla'
+title = 'El trastero de Samuel'
 theme = 'hugo-theme-m10c'
   [params]
     author = "Samuel R. Sevilla"

@@ -2,3 +2,27 @@ baseURL = 'https://samuelrodriguezsevilla.es/'
 languageCode = 'es-es'
 title = 'Samuel R. Sevilla'
 theme = 'hugo-theme-m10c'
+  [params]
+    author = "Samuel R. Sevilla"
+    description = "Mi trastero personal sobre informática y otros temas"
+    avatar = "samuelrsevilla.jpg"
+  [[params.social]]
+    icon = "brand-github"
+    name = "My Github"
+    url = "https://github.com/samuelrsevilla"
+  [[params.social]]
+    icon = "brand-bluesky"
+    name = "Blue Sky"
+    url = "https://bsky.app/profile/samuelrsevilla.bsky.social"
+  [[params.social]]
+    icon = "brand-mastodon"
+    name = "Mastodon"
+    url = "https://mastodon.social/@samuelrsevilla"
+  [[params.social]]
+    icon = "brand-x"
+    name = "Twitter"
+    url = "https://x.com/SamuelRSevilla"
+  [[params.social]]
+    icon = "brand-reddit"
+    name = "Reddit"
+    url = "https://www.reddit.com/user/samrs65/"
